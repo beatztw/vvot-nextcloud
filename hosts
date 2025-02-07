@@ -1,0 +1,1 @@
+nextcloud ansible_host=xxxxx ansible_user=ubuntu ansible_connection=ssh
